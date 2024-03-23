@@ -39,3 +39,4 @@ After execution, the image representation of the maze will be saved as `perfect_
 
 Executing the program with both `maze_height` and `maze_width` set to 25 generates the following 25x25 maze:
 
+![Example 25x25 maze](docs/imgs/perfect_maze.png)
